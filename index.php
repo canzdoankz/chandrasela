@@ -34,7 +34,7 @@
       </style>
     </noscript>
   </head>
-  <body id="top">  
+  <body id="top" >  
     <header></header>
     <div class="page-content">
       <div class="div">
@@ -71,7 +71,6 @@
   <div class="container ww-wedding-event">
     <h2 class="h1 text-center pb-3 ww-title" data-aos="zoom-in-down" data-aos-duration="1000">Wedding Events</h2>
 
-    <div class="row">
       <div class="col-md-4 col-sm-12"  >
         <div class="my-3">
           <a class="btn btn-link"  target="_blank" href="https://www.google.com/maps/dir//GEREJA+SANTO+PETRUS+KRISOLOGUS+BSB/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e708a76dc89f07d:0x413acbeaf2fc0bb9?sa=X&ved=2ahUKEwivyp_RpdHyAhWQfH0KHfRdCn0Q9RcwDXoECEwQBA">
@@ -110,10 +109,8 @@
           </a>
       </div>
 
-    </div>
     
     <br>
-    <div class="row">
       <div class="container">
         <div class="col-md-12 col-sm-12">
           <div class="mt-3">
@@ -123,7 +120,6 @@
           </div>
         </div>
       </div>
-    </div>
   </div>
 </div>
 
