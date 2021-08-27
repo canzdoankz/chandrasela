@@ -114,12 +114,13 @@
     
     <br>
     <div class="row">
-      <div class="col-md-12 col-sm-12">
-        <div class="my-3">
-          <p class="pt-3 text-left text-muted">Dear family and friends,
-
-            With an abundance of caution and care for our guests, we have decided to marry in a small intimate ceremony on our original wedding date. 
-            We can’t imagine beginning this new chapter of our lives together without our closest loved ones, so we hope that you will join us virtually instead as we say ‘I do’.</p>
+      <div class="container">
+        <div class="col-md-12 col-sm-12">
+          <div class="mt-3">
+            <p class="pt-3 text-left text-muted">Dear family and friends,
+              With an abundance of caution and care for our guests, we have decided to marry in a small intimate ceremony on our original wedding date. 
+              We can’t imagine beginning this new chapter of our lives together without our closest loved ones, so we hope that you will join us virtually instead as we say ‘I do’.</p>
+          </div>
         </div>
       </div>
     </div>
