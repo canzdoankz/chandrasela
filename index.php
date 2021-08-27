@@ -34,7 +34,7 @@
       </style>
     </noscript>
   </head>
-  <body id="top" >  
+  <body id="top">  
     <header></header>
     <div class="page-content">
       <div class="div">
