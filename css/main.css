@@ -1,12 +1,12 @@
 body {
   font-family: "Dosis", sans-serif;
-  width: 100%;
  }
 
 /* Home Page Style */
 .ww-home-page {
   background: url("../images/gallery-pic-4.jpg") no-repeat center center;
   background-size: cover;
+  width: 100%;
   height: 100vh;
   min-height: 480px;
   max-height: 1080px; }
