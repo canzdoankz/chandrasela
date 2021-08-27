@@ -33,19 +33,8 @@
         }
       </style>
     </noscript>
-    <style>
-    .draggable {
-        position:absolute;
-        top:0px;
-        background:pink;
-        height:100px;
-        width:100%;
-        left: 0px;
-        text-align:center;
-    }
-    </style>
   </head>
-  <body id="top" style="width: 100%;">  
+  <body id="top" >  
     <header></header>
     <div class="page-content">
       <div class="div">
@@ -176,4 +165,5 @@
     <script src="scripts/ekko-lightbox.min.js?ver=1.1.0"></script>
     <script src="scripts/main.js?ver=1.1.0"></script>
   </body>
+  
 </html>
