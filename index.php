@@ -20,7 +20,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
-    <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/bootstrap.css?ver=1.1.0" rel="stylesheet">
     <link href="css/font-awesome/css/all.min.css?ver=1.1.0" rel="stylesheet">
     <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
     <link href="css/ekko-lightbox.css?ver=1.1.0" rel="stylesheet">
@@ -70,8 +70,8 @@
 <div class="ww-section bg-light" id="events">
   <div class="container ww-wedding-event">
     <h2 class="h1 text-center pb-3 ww-title" data-aos="zoom-in-down" data-aos-duration="1000">Wedding Events</h2>
-
-      <div class="col-md-4 col-sm-12"  >
+    <div class="row">
+        <div class="col-md-4 col-sm-12"  >
         <div class="my-3">
           <a class="btn btn-link"  target="_blank" href="https://www.google.com/maps/dir//GEREJA+SANTO+PETRUS+KRISOLOGUS+BSB/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e708a76dc89f07d:0x413acbeaf2fc0bb9?sa=X&ved=2ahUKEwivyp_RpdHyAhWQfH0KHfRdCn0Q9RcwDXoECEwQBA">
             <div class="my-3"><img class="img-fluid" src="images/wedding-party.png" alt="Wedding Party" data-aos="fade-down-right" data-aos-duration="1000"/></div>
@@ -108,6 +108,7 @@
             </ul>
           </a>
       </div>
+    </div>
 
     
     <br>
