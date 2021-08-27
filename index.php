@@ -33,8 +33,19 @@
         }
       </style>
     </noscript>
+    <style>
+    .draggable {
+        position:absolute;
+        top:0px;
+        background:pink;
+        height:100px;
+        width:100%;
+        left: 0px;
+        text-align:center;
+    }
+    </style>
   </head>
-  <body id="top">
+  <body id="top" style="width: 100%;" >  
     <header></header>
     <div class="page-content">
       <div class="div">
