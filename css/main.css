@@ -3,15 +3,13 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home-img.jpg") no-repeat center center;
+  background: url("../images/gallery-pic-4.jpg") no-repeat center center;
   background-size: cover;
-  background-position: 70%;
   height: 100vh;
   min-height: 480px;
   max-height: 1080px; }
   .ww-home-page .ww-wedding-announcement {
-    width: 90%;
-    max-width: 1600px;
+    width: 100%;
     margin: 0 auto;
     height: 100%;
     color: #fff;
