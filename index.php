@@ -45,7 +45,7 @@
     }
     </style>
   </head>
-  <body id="top" style="width: 100%;" >  
+  <body id="top">  
     <header></header>
     <div class="page-content">
       <div class="div">
