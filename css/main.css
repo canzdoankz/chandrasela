@@ -1,5 +1,7 @@
 body {
-  font-family: "Dosis", sans-serif; }
+  font-family: "Dosis", sans-serif;
+  width: 100%;
+ }
 
 /* Home Page Style */
 .ww-home-page {
