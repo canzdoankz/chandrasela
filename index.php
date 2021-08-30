@@ -128,42 +128,38 @@
     <div class="row">
       <div class="col-md-4 col-sm-12">
         <div class="my-3">
-          <a class="btn btn-link"  target="_blank" href="https://www.google.com/maps/dir//GEREJA+SANTO+PETRUS+KRISOLOGUS+BSB/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e708a76dc89f07d:0x413acbeaf2fc0bb9?sa=X&ved=2ahUKEwivyp_RpdHyAhWQfH0KHfRdCn0Q9RcwDXoECEwQBA">
             <ul style="text-align: center;" data-aos="zoom-in-down" data-aos-duration="1000">
               <li><div class="pt-2" style="color:brown">HOLY MATRIMONY</div></li>
-              <li><span class="pl-2 text-muted">St. Peter Chrysologus Catholic Church, BSB, Semarang</span></li>
+              <li><a class="pl-2 text-muted btn btn-link" target="_blank" href="https://www.google.com/maps/dir//GEREJA+SANTO+PETRUS+KRISOLOGUS+BSB/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e708a76dc89f07d:0x413acbeaf2fc0bb9?sa=X&ved=2ahUKEwivyp_RpdHyAhWQfH0KHfRdCn0Q9RcwDXoECEwQBA">St. Peter Chrysologus Catholic Church, BSB, Semarang</a></li>
               <li class="pt-2"><span class="pl-2 text-muted"> 10:00AM - 10:30PM</span></li>
             </ul>
-          </a>
         </div>
       </div>
       <div class="col-md-4 col-sm-12">
         <div class="my-3">
-          <a class="btn btn-link" target="_blank" href="https://www.google.com/maps/dir//bsb+lekkers/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e7089f956019327:0x400e262e1ce19e90?sa=X&ved=2ahUKEwiyz-6dptHyAhUlmeYKHV-IDNAQ9RcwGnoECGkQBA">
             <ul style="text-align: center;" data-aos="zoom-in-down" data-aos-duration="1000">
               <li><div class="pt-2" style="color:brown">WEDDING RECEPTION</div></li>
-              <li><span class="pl-2 text-muted">BSB Sport Club and Lakers' Resto, Semarang</span></li>
+              <li><a class="pl-2 text-muted btn btn-link" target="_blank" href="https://www.google.com/maps/dir//bsb+lekkers/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e7089f956019327:0x400e262e1ce19e90?sa=X&ved=2ahUKEwiyz-6dptHyAhUlmeYKHV-IDNAQ9RcwGnoECGkQBA">BSB Sport Club and Lakers' Resto, Semarang</a></li>
               <li class="pt-2"><span class="pl-2 text-muted"> 11:00AM - 13:00PM</span></li>
             </ul>
-          </a>
         </div>
       </div>
       <div class="col-md-4 col-sm-12">
         <div class="my-3">
-          <a class="btn btn-link" target="_blank" href="https://www.instagram.com/valeriagisela/">
+          
             <ul style="text-align: center;" data-aos="zoom-in-down" data-aos-duration="1000">
               <li><div class="pt-2" style="color:brown">LIVE STREAMING</div></li>
-              <li><span class="pl-2 text-muted">Chandra & Sela personal Instagram (Click Here)</span></li>
-              <li class="pt-2"><span class="pl-2 text-muted"> 10:00AM - 13:00PM</span></li>
+              <li><span class="pl-2 text-muted">Chandra & Sela personal Instagram </span></li>
+              <li class="pt-2"><a class="btn btn-link pl-2 text-muted" target="_blank" href="https://www.instagram.com/valeriagisela/">Join Here</a></li>
             </ul>
-          </a>
+          
       </div>
     </div>
     
     <div class="container" style="text-align: center;" >
       <div class="col-md-12 col-sm-12">
         <div class="mt-3">
-          <p class="pt-3 text-muted">Dear Fiends and Family,  <br>
+          <p class="pt-3 text-muted">Dear Friends and Family,  <br>
             We are unable to hold our wedding as originally planned and regretfully must limit our guest list. <br>
             We wish we could have you with us on our special day, but we feel this is the right decision to ensure the health and safety of our loved ones. <br>
             We hope you can still celebrate with us by joining via Live Instagram <br>
@@ -199,7 +195,32 @@
     </div>
   </div>
 </div>
-    <footer></footer>
+
+<div class="ww-section bg-light" id="events">
+  
+  <div class="container ww-wedding-event" style="text-align: center;">
+
+    <img class="img-fluid" src="images/BUNGA.png" style="height: auto; width: auto;margin-top: -100px;"/>
+    <div class="container" style="text-align: center;" > <br>
+      <div class="col-md-12 col-sm-12">
+        <div class="mt-3">
+          <p class="pt-3 text-muted">
+            With all that we have, we’ve been truly blessed. 
+            Your presence and prayers are all that we request. 
+            But if you desire to give nonetheless, we are happy to accepted it.
+        </p>
+        <img class="img-fluid" src="images/bca.PNG" style="height: auto; width: auto;" />
+        <p class="pt-3 text-muted">
+          BCA - CHANDRA BUANA P A <br> 4260566852
+        </p>
+        </div>
+      </div>
+      <img class="img-fluid" src="images/bunga2.png" style="height: auto; width: auto; margin-bottom: -200px;" />
+    </div>
+  </div>
+</div>
+
+
     <script src="scripts/jquery.min.js?ver=1.1.0"></script>
     <script src="scripts/bootstrap.bundle.min.js?ver=1.1.0"></script>
     <script src="scripts/aos.js?ver=1.1.0"></script>
