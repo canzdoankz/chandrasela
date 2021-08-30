@@ -28,7 +28,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Chandra & Sela</title>
+    <title>Chandra & Gisela</title>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&amp;display=swap"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&amp;display=swap" media="print" onload="this.media='all'"/>
@@ -68,7 +68,7 @@
     <div class="ww-wedding-announcement d-flex align-items-center justify-content-start">
       <div class="container ww-announcement-container">
         <p class="pt-3" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000">THE WEDDING OF</p><br>
-        <p class="ww-couple-name ww-title" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000">Chandra <br> & <br> Sela</p>
+        <p class="ww-couple-name ww-title" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000">Chandra <br> & <br> Gisela</p>
         <p class="pt-3" data-aos="zoom-in-down" data-aos-delay="300" data-aos-duration="1000" data-aos-offset="10">10 | 10 | 2021</p>
       </div>
     </div>
@@ -167,7 +167,7 @@
               Love,
           </p>
           </div>
-          <h3 class="ww-couple-name ww-title" >Chandra & Sela</h3>
+          <h3 class="ww-couple-name ww-title" >Chandra & Gisela</h3>
         </div>
         <img class="img-fluid" src="images/bunga2.png" style="height: auto; width: auto;" />
       </div>
