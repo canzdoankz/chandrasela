@@ -163,7 +163,7 @@
               We are unable to hold our wedding as originally planned and regretfully must limit our guest list. <br>
               We wish we could have you with us on our special day, but we feel this is the right decision to ensure the health and safety of our loved ones. <br>
               We hope you can still celebrate with us by joining via Live Instagram <br>
-              Thank you for you understanding and support. <br> <br>
+              Thank you for your understanding and support. <br> <br>
               Love,
           </p>
           </div>
