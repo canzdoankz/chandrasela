@@ -60,8 +60,7 @@
     </noscript>
     <meta property="og:url"                content="https://chandrasela.herokuapp.com/" />
     <meta property="og:title"              content="Chandra & Gisela Wedding Invitation" />
-    <meta property="og:description"        content="Chandra & Gisela Wedding Invitation" />
-    <meta property="og:image"              content="https://chandrasela.herokuapp.com/images/bride.jpg" />
+    <meta property="og:image"              content="https://chandrasela.herokuapp.com/images/tumb.jpg" />
    
   </head>
   <body id="top" >  
