@@ -140,7 +140,7 @@
                 <li><div class="pt-2" style="color:#bb7944">WEDDING RECEPTION</div></li>
                 <li><a class="pl-2 text-muted btn btn-link" target="_blank" href="https://www.google.com/maps/dir//bsb+lekkers/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x2e7089f956019327:0x400e262e1ce19e90?sa=X&ved=2ahUKEwiyz-6dptHyAhUlmeYKHV-IDNAQ9RcwGnoECGkQBA">BSB Sport Club and Lakers' Resto, Semarang</a></li>
                 <li class="pt-2"><span class="pl-2 text-muted"> 11:00AM - 13:00PM</span></li>
-                <li class="pt-2"><span class="pl-2 text-muted"> Dresscode Colour</span></li>
+                <li class="pt-2"><span class="pl-2 text-muted"> Dresscode If you are willing to</span></li>
                 <li><img class="img-fluid" src="images/dresscode.png" /></li>
               </ul>
           </div>
