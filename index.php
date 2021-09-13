@@ -197,26 +197,6 @@
     </div>
   </div>
 
-  <div class="ww-section bg-light" id="events">
-    <div class="container ww-wedding-event" style="text-align: center;">
-      <img class="img-fluid" src="images/BUNGA.png" style="height: auto; width: auto;margin-top: -100px;"/>
-      <div class="container" style="text-align: center;" > <br> <br> <br>
-        <div class="col-md-12 col-sm-12">
-          <div class="mt-3">
-            <p class="pt-3 text-muted">
-              With all that we have, we’ve been truly blessed. 
-              Your presence and prayers are all that we request. 
-              But if you desire to give nonetheless, we are happy to accepted it.
-          </p>
-          <img class="img-fluid" src="images/bca.PNG" style="height: auto; width: auto;" />
-          <p class="pt-3 text-muted">
-            BCA - CHANDRA BUANA P A <br> 4260566852
-          </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
 
 
     <script src="scripts/jquery.min.js?ver=1.1.0"></script>
