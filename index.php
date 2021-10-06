@@ -30,6 +30,9 @@
     <title>Chandra & Gisela</title>
     <meta property="og:title"              content="Chandra & Gisela Wedding Invitation" />
     <meta property="og:image"              content="images/tumb.jpg" />
+<!-- Size of image. Any size up to 300. Anything above 300px will not work in WhatsApp -->
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="300">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&amp;display=swap"/>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&amp;display=swap" media="print" onload="this.media='all'"/>
