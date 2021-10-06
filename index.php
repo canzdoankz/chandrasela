@@ -27,8 +27,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title"              content="Chandra & Gisela Wedding Invitation" />
-    <meta property="og:image"              content="images/tumb.jpg" />
+<meta property="og:site_name" content="San Roque 2014 Pollos">
+<meta property="og:title" content="San Roque 2014 Pollos" />
+<meta property="og:description" content="Programa de fiestas" />
+<meta property="og:image" itemprop="image" content="http://pollosweb.wesped.es/programa_pollos/play.png">
+<meta property="og:type" content="website" />
+<meta property="og:updated_time" content="1440432930" />
     <title>Chandra & Gisela</title>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Dosis:wght@400;500&amp;display=swap"/>
