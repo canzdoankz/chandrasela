@@ -29,7 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Chandra & Gisela</title>
     <meta property="og:title"              content="Chandra & Gisela Wedding Invitation" />
-    <meta property="og:image"              content="images/tumb.jpg" />
+    <meta property="og:image"              content="https://chandrasela.herokuapp.com/images/tumb.jpg" />
 <!-- Size of image. Any size up to 300. Anything above 300px will not work in WhatsApp -->
 <meta property="og:image:width" content="300">
 <meta property="og:image:height" content="300">
